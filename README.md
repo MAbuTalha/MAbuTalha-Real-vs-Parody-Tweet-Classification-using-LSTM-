@@ -1,1 +1,1 @@
-# MAbuTalha-Real-vs-Parody-Tweet-Classification-using-LSTM-
+# Real-vs-Parody-Tweet-Classification-using-LSTM-
